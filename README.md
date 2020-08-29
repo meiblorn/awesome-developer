@@ -15,4 +15,4 @@ A curated list of awesome developer resources, libraries and software.
 ## Regex
 
 - https://regex101.com — Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript.
-- https://verbalexpressions.github.io - Write regular expressions in a builder style syntax. VerbalExpressions is available for over 30 programming languages.
+- https://verbalexpressions.github.io — Write regular expressions in a builder style syntax. VerbalExpressions is available for over 30 programming languages.
