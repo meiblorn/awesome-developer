@@ -14,4 +14,4 @@ A curated list of awesome developer resources, libraries and software.
 
 ## Regex
 
-- https://regex101.com/ — Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript.
+- https://regex101.com — Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript.
